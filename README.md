@@ -112,7 +112,7 @@ In each JSON file, the output will include the following files:
 }
 ```
 
-## Citation
+## Reference
 ```bibtex
 @article{liu2024visual,
   title={Visual instruction tuning},
